@@ -1,4 +1,4 @@
-import ui.GameFrame;
+import ui.*;
 
 /**
  * Game Start
