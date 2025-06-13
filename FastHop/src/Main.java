@@ -1,7 +1,7 @@
 import ui.GameFrame;
 
 /**
- * Startklasse.
+ * Game Start
  */
 public class Main {
     public static void main(String[] args) {
